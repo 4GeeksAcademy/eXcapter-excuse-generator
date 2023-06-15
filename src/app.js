@@ -12,12 +12,12 @@ window.onload = () => {
 };
 
 let generateExcuse = () => {
-  let who = ["The dog", "My grandma", "His turtle", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
-  let what = ["my homework", "the keys", "the car"];
+  let who = ["The cat", "My grandma", "His phoenix", "My bird"];
+  let action = ["ate", "peed on", "crushed", "broke"];
+  let what = ["my hand", "the keys", "the car"];
   let when = [
-    "before the class",
-    "right on time",
+    "before the hike",
+    "just in time",
     "when I finished",
     "during my lunch",
     "while I was praying",
